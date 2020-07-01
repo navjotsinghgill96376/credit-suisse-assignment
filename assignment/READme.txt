@@ -9,9 +9,9 @@ customerDetails.csv path -:assigment/customerDetails/customerDetails.csv
 
 HOW TO RUN-:
 in Terminal
-Steps    
-run npm install in terminal                   
+Steps  
 1)go in assigment directory to change directory execute cd assigment
+run npm install in terminal                   
 2)Write npm start in Terminal Press Enter 
 a log wil be printed i.e "Server started listening on Port :3000"
 3)In Postman (i.e a tool for testing APIS) select request type Post
